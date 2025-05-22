@@ -1,0 +1,111 @@
+nombre,popularidad,genero,cantidad_albumes,mejor_pista,album_mejor_pista,año_mejor_pista
+Ludovico Einaudi,79,neoclassical,46,Experience,In A Time Lapse,2013
+Ludovico Einaudi,79,classical,46,Experience,In A Time Lapse,2013
+Johann Sebastian Bach,78,classical,50,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude","Bach: Cello Suites Nos. 1, 5 & 6",1983
+Johann Sebastian Bach,78,classical piano,50,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude","Bach: Cello Suites Nos. 1, 5 & 6",1983
+Wolfgang Amadeus Mozart,77,classical,50,"Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa","Mozart: Requiem / Exultate, Jubilate / Laudate Dominum",1995
+Wolfgang Amadeus Mozart,77,requiem,50,"Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa","Mozart: Requiem / Exultate, Jubilate / Laudate Dominum",1995
+Wolfgang Amadeus Mozart,77,opera,50,"Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa","Mozart: Requiem / Exultate, Jubilate / Laudate Dominum",1995
+Wolfgang Amadeus Mozart,77,classical piano,50,"Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa","Mozart: Requiem / Exultate, Jubilate / Laudate Dominum",1995
+Wolfgang Amadeus Mozart,77,chamber music,50,"Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa","Mozart: Requiem / Exultate, Jubilate / Laudate Dominum",1995
+London Symphony Orchestra,75,classical,50,"Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",Tchaikovsky: Swan Lake,1976
+London Symphony Orchestra,75,orchestra,50,"Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",Tchaikovsky: Swan Lake,1976
+London Symphony Orchestra,75,opera,50,"Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",Tchaikovsky: Swan Lake,1976
+Frédéric Chopin,75,classical piano,50,"Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.","Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",2000
+Frédéric Chopin,75,classical,50,"Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.","Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",2000
+Ludwig van Beethoven,73,classical,50,"Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 ""Moonlight"": I. Adagio sostenuto","Beethoven: Piano Sonatas, Vol. 3",2007
+Ludwig van Beethoven,73,classical piano,50,"Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 ""Moonlight"": I. Adagio sostenuto","Beethoven: Piano Sonatas, Vol. 3",2007
+Ludwig van Beethoven,73,chamber music,50,"Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 ""Moonlight"": I. Adagio sostenuto","Beethoven: Piano Sonatas, Vol. 3",2007
+Andrea Bocelli,71,opera,50,Con Te Partirò,Bocelli (Remastered),1995
+Berliner Philharmoniker,74,classical,50,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""on the G String""",Karajan A-Z: Adam - Bartók,2024
+Berliner Philharmoniker,74,orchestra,50,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""on the G String""",Karajan A-Z: Adam - Bartók,2024
+Berliner Philharmoniker,74,opera,50,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""on the G String""",Karajan A-Z: Adam - Bartók,2024
+Berliner Philharmoniker,74,requiem,50,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""on the G String""",Karajan A-Z: Adam - Bartók,2024
+Antônio Carlos Jobim,70,bossa nova,50,The Girl From Ipanema,Compact Jazz: Antonio Carlos Jobim,1990
+Antônio Carlos Jobim,70,brazilian jazz,50,The Girl From Ipanema,Compact Jazz: Antonio Carlos Jobim,1990
+Antônio Carlos Jobim,70,mpb,50,The Girl From Ipanema,Compact Jazz: Antonio Carlos Jobim,1990
+Antônio Carlos Jobim,70,latin jazz,50,The Girl From Ipanema,Compact Jazz: Antonio Carlos Jobim,1990
+Gustavo Santaolalla,67,soundtrack,28,The Last of Us,The Last of Us,2013
+Antonio Vivaldi,71,classical,50,"Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)","Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)",2018
+Pyotr Ilyich Tchaikovsky,70,classical,50,"Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",Tchaikovsky: Swan Lake,1976
+Herbert von Karajan,70,classical,50,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""on the G String""",Karajan A-Z: Adam - Bartók,2024
+Herbert von Karajan,70,opera,50,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""on the G String""",Karajan A-Z: Adam - Bartók,2024
+Herbert von Karajan,70,orchestra,50,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""on the G String""",Karajan A-Z: Adam - Bartók,2024
+Herbert von Karajan,70,requiem,50,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""on the G String""",Karajan A-Z: Adam - Bartók,2024
+Wiener Philharmoniker,69,classical,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Wiener Philharmoniker,69,opera,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Wiener Philharmoniker,69,orchestra,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Wiener Philharmoniker,69,requiem,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Claude Debussy,70,classical,50,"Suite bergamasque, L. 75: III. Clair de lune","Debussy: Suite bergamasque, L. 75, 3. Clair de lune",2018
+Claude Debussy,70,classical piano,50,"Suite bergamasque, L. 75: III. Clair de lune","Debussy: Suite bergamasque, L. 75, 3. Clair de lune",2018
+Joe Hisaishi,71,japanese classical,50,Merry-Go-Round of Life - from 'Howl's Moving Castle',FREEDOM PIANO STORIES 4,2005
+Joe Hisaishi,71,anime,50,Merry-Go-Round of Life - from 'Howl's Moving Castle',FREEDOM PIANO STORIES 4,2005
+Carlos Gardel,52,tango,50,Por Una Cabeza - 2022 Remasterizado,Classics (2022 Remasterizado),1931
+Carlos Gardel,52,bolero,50,Por Una Cabeza - 2022 Remasterizado,Classics (2022 Remasterizado),1931
+Luciano Pavarotti,64,opera,50,"Turandot, Act III: Nessun dorma!",Puccini: Turandot (Highlights),1973
+Luciano Pavarotti,64,classical,50,"Turandot, Act III: Nessun dorma!",Puccini: Turandot (Highlights),1973
+Luciano Pavarotti,64,canzone napoletana,50,"Turandot, Act III: Nessun dorma!",Puccini: Turandot (Highlights),1973
+Academy of St. Martin in the Fields,67,classical,50,Harpsichord Suite No. 4 in D minor HWV437: Sarabande,The Best of Baroque,2008
+Academy of St. Martin in the Fields,67,chamber music,50,Harpsichord Suite No. 4 in D minor HWV437: Sarabande,The Best of Baroque,2008
+Academy of St. Martin in the Fields,67,orchestra,50,Harpsichord Suite No. 4 in D minor HWV437: Sarabande,The Best of Baroque,2008
+Johannes Brahms,67,classical,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Johannes Brahms,67,classical piano,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Johannes Brahms,67,chamber music,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Johannes Brahms,67,orchestra,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Ariel Ramírez,47,folklore argentino,27,Alfonsina Y El Mar,La Historia,2002
+Ariel Ramírez,47,tango,27,Alfonsina Y El Mar,La Historia,2002
+Yo-Yo Ma,66,classical,50,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude","Bach: Cello Suites Nos. 1, 5 & 6",1983
+Yo-Yo Ma,66,chamber music,50,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude","Bach: Cello Suites Nos. 1, 5 & 6",1983
+Astor Piazzolla,51,tango,50,Libertango,Libertango - Buenos Aires Hora Cero,2010
+Erik Satie,67,classical piano,50,Gymnopédie No. 1,Entremont Plays Satie,1981
+Erik Satie,67,classical,50,Gymnopédie No. 1,Entremont Plays Satie,1981
+Howard Shore,68,soundtrack,50,Concerning Hobbits,The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack),2001
+Claudio Abbado,66,classical,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Claudio Abbado,66,opera,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Claudio Abbado,66,requiem,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Claudio Abbado,66,orchestra,50,"21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)",Brahms: 21 Hungarian Dances,1984
+Daniel Paterok,63,neoclassical,5,"A Little Night Music in G Major, K.525: I. Allegro - Excerpt, Arr. for piano by Daniel Paterok","Little Mozart, Vol. 1",2024
+Camille Saint-Saëns,66,classical,50,Carnival of the Animals: The Swan,Saint-Saëns: Carnival of the Animals: The Swan,2020
+Sir Neville Marriner,66,classical,50,Pachelbel: Canon and Gigue in D Major: Canon,Pachelbel: Canon in D Major,2023
+Sir Neville Marriner,66,orchestra,50,Pachelbel: Canon and Gigue in D Major: Canon,Pachelbel: Canon in D Major,2023
+Sergei Rachmaninoff,66,classical,50,"12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",Rachmaninoff: Préludes; Études-Tableaux; Moments musicaux,2020
+Sergei Rachmaninoff,66,classical piano,50,"12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",Rachmaninoff: Préludes; Études-Tableaux; Moments musicaux,2020
+Daniel Barenboim,64,classical,50,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",Chopin: Nocturnes,1982
+Daniel Barenboim,64,classical piano,50,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",Chopin: Nocturnes,1982
+Daniel Barenboim,64,opera,50,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",Chopin: Nocturnes,1982
+Daniel Barenboim,64,chamber music,50,"Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",Chopin: Nocturnes,1982
+George Frideric Handel,66,classical,50,"Handel / Orch. Hale: Keyboard Suite No. 4 in D Minor, HWV 437: III. Sarabande",Handel Sarabande,2002
+George Frideric Handel,66,choral,50,"Handel / Orch. Hale: Keyboard Suite No. 4 in D Minor, HWV 437: III. Sarabande",Handel Sarabande,2002
+George Frideric Handel,66,opera,50,"Handel / Orch. Hale: Keyboard Suite No. 4 in D Minor, HWV 437: III. Sarabande",Handel Sarabande,2002
+Giuseppe Verdi,63,opera,50,"Rigoletto, Act III: La donna è mobile",Pavarotti singt Verdi,2010
+Giuseppe Verdi,63,classical,50,"Rigoletto, Act III: La donna è mobile",Pavarotti singt Verdi,2010
+Yiruma,66,neoclassical,22,River Flows In You,First Love (The Original & the Very First Recording),2001
+Lang Lang,64,classical piano,33,"The Well-Tempered Clavier, Book 1: Prelude No. 1 in C Major BWV 846/1",Piano Book (Encore Edition),2019
+Lang Lang,64,classical,33,"The Well-Tempered Clavier, Book 1: Prelude No. 1 in C Major BWV 846/1",Piano Book (Encore Edition),2019
+Franz Liszt,64,classical piano,50,"Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",Liszt: Scherzo and March / 3 Liebestraume / Berceuse,1998
+Franz Liszt,64,classical,50,"Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major",Liszt: Scherzo and March / 3 Liebestraume / Berceuse,1998
+Giacomo Puccini,62,opera,50,"Turandot, Act III: Nessun dorma!",Puccini: Turandot (Highlights),1973
+Giacomo Puccini,62,classical,50,"Turandot, Act III: Nessun dorma!",Puccini: Turandot (Highlights),1973
+Ólafur Arnalds,65,neoclassical,21,saman,re:member,2018
+Ólafur Arnalds,65,minimalism,21,saman,re:member,2018
+Franz Schubert,64,chamber music,50,"Ständchen, S. 560 (Trans. from Schwanengesang No. 4, D. 957)",Schubert,2019
+Franz Schubert,64,classical,50,"Ständchen, S. 560 (Trans. from Schwanengesang No. 4, D. 957)",Schubert,2019
+Franz Schubert,64,classical piano,50,"Ständchen, S. 560 (Trans. from Schwanengesang No. 4, D. 957)",Schubert,2019
+Ryuichi Sakamoto,63,japanese classical,50,"Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",D-DAY,2023
+Ryuichi Sakamoto,63,ambient,50,"Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",D-DAY,2023
+Sir Simon Rattle,63,classical,50,"Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 14a, Pas de deux. Andante maestoso",Tchaikovsky: The Nutcracker,2010
+Sir Simon Rattle,63,orchestra,50,"Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 14a, Pas de deux. Andante maestoso",Tchaikovsky: The Nutcracker,2010
+Dmitri Shostakovich,63,classical,50,Jazz Suite No. 2: VI. Waltz 2,Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot,2002
+Dmitri Shostakovich,63,chamber music,50,Jazz Suite No. 2: VI. Waltz 2,Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot,2002
+Alexis Ffrench,64,neoclassical,18,Once,Classical Soul Vol. 1,2024
+Itzhak Perlman,63,classical,50,Theme From Schindler's List,Schindler's List,1993
+Itzhak Perlman,63,chamber music,50,Theme From Schindler's List,Schindler's List,1993
+Karl Jenkins,63,new age,25,Adiemus,Adiemus - Songs Of Sanctuary,1995
+Karl Jenkins,63,choral,25,Adiemus,Adiemus - Songs Of Sanctuary,1995
+Karl Jenkins,63,classical,25,Adiemus,Adiemus - Songs Of Sanctuary,1995
+Edvard Grieg,63,classical,50,"Peer Gynt Suite No. 1, Op. 46: I. Morning Mood",Grieg: Peer Gynt Suites / Sibelius: Valse triste,1993
+Edvard Grieg,63,orchestra,50,"Peer Gynt Suite No. 1, Op. 46: I. Morning Mood",Grieg: Peer Gynt Suites / Sibelius: Valse triste,1993
+Richard Bonynge,59,opera,50,"Rigoletto, Act III: La donna è mobile",Pavarotti singt Verdi,2010
+Richard Bonynge,59,classical,50,"Rigoletto, Act III: La donna è mobile",Pavarotti singt Verdi,2010
+Zubin Mehta,59,opera,50,"Turandot, Act III: Nessun dorma!",Puccini: Turandot (Highlights),1973
+Zubin Mehta,59,classical,50,"Turandot, Act III: Nessun dorma!",Puccini: Turandot (Highlights),1973
