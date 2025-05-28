@@ -66,4 +66,17 @@ Además, desarrollé una **hoja comparativa** donde analizo la **popularidad pro
 
 Estas visualizaciones permiten identificar tendencias, diferencias y similitudes entre los géneros desde una perspectiva cuantitativa basada en datos reales extraídos de Spotify.
 
+## 📷 Visualizaciones
+
+### 🎸 Hoja de análisis: Metal
+![Dashboard Metal](./Visualizaciones/Visualizacion_metal.png)
+
+### 🎻 Hoja de análisis: Clásico
+![Dashboard Clásico](./Visualizaciones/Visualizacion_Clasico.png)
+
+### 🎤 Hoja de análisis: Pop
+![Dashboard Pop](./Visualizaciones/Visualizacion_pop.png)
+
+### ⚖️ Comparativa entre géneros
+![Dashboard Comparativo](./Visualizaciones/Visualizacion_comparativa.png)
 
