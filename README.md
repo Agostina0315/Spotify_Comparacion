@@ -55,3 +55,15 @@ Cada archivo contiene las siguientes columnas:
 
 Luego, cargué estos tres datasets en una base de datos de **SQL Server**, donde creé una base llamada `Spotify`. Esto me permitió **consultar los datos con mayor comodidad**, además de preparar los datos de forma más estructurada para **visualizarlos en Power BI**.
 
+## 📊 Visualización en Power BI
+
+Para el análisis visual trabajé con **Power BI**, donde diseñé distintos dashboards para explorar y comparar los datos recolectados.
+
+- Comencé modelando la **hoja de Metal**, definiendo visualizaciones clave como distribución de popularidad, cantidad de álbumes por artista y evolución temporal.
+- Una vez validado ese diseño, repliqué la lógica de visualización para los otros dos géneros: **Clásico** y **Pop**, manteniendo la coherencia visual y estructural entre las páginas.
+
+Además, desarrollé una **hoja comparativa** donde analizo la **popularidad promedio y distribución** de artistas entre los tres géneros, teniendo en cuenta la diferencia en la cantidad de artistas disponibles por cada uno (Metal: 413, Clásico: 769, Pop: 545). Esto garantiza una comparación lo más justa y representativa posible.
+
+Estas visualizaciones permiten identificar tendencias, diferencias y similitudes entre los géneros desde una perspectiva cuantitativa basada en datos reales extraídos de Spotify.
+
+
