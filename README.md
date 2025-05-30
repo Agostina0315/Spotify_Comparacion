@@ -71,12 +71,159 @@ Estas visualizaciones permiten identificar tendencias, diferencias y similitudes
 ### 🎸 Hoja de análisis: Metal
 ![Dashboard Metal](./Visualizaciones/Visualizacion_metal.png)
 
+### 🎧 Análisis de artistas y subgéneros musicales en Argentina *(Dashboard Metal - Power BI)*
+
+Esta visualización se centra en analizar la distribución y popularidad de artistas y subgéneros musicales dentro del género **Metal** en el contexto argentino, como parte de una comparación general con los géneros **Clásico** y **Pop**.
+
+#### 🎯 Objetivo
+
+Explorar el comportamiento de distintos subgéneros del metal en la escena local, evaluando tanto el volumen de lanzamientos como los niveles de popularidad. La muestra considera artistas seleccionados de manera aleatoria, por lo que los resultados no representan necesariamente a los exponentes más conocidos ni más difundidos del género.
+
+#### 🧩 Datos clave
+
+- **Total de artistas analizados:** 413  
+- **Subgéneros más representados (por cantidad de álbumes):**  
+  Argentine Rock, Christian Rock, Groove Metal, Thrash Metal, Hardcore Punk.
+
+#### 🔍 Insights destacados
+
+- **Dominancia del Argentine Rock y subgéneros extremos:**  
+  El *Argentine Rock* lidera en cantidad de álbumes, seguido por géneros más pesados como *Thrash Metal*, *Groove Metal* y *Hardcore Punk*, reflejando una preferencia local por estilos intensos y con fuerte identidad regional.
+
+- **Mayor volumen de álbumes por artista:**  
+  2X y A.N.I.M.A.L. son los artistas que presentan mayor producción dentro de esta muestra aleatoria. Sin embargo, esto no implica necesariamente que tengan mayor trayectoria o reconocimiento que otros artistas del género, ya que la selección no se basó en criterios de popularidad histórica o difusión mediática.
+
+- **Popularidad acumulada por artista:**  
+  Transmetal, V8, A.N.I.M.A.L. y DGM se destacan en esta muestra por su nivel de popularidad acumulada. Es importante remarcar que, al tratarse de una selección aleatoria, estos valores no reflejan necesariamente a los artistas más difundidos o influyentes del metal a nivel internacional o nacional.
+
+- **Pistas más populares en promedio:**  
+  Canciones como Marmichula, Había Volar Volar y MAESTROS lideran el promedio de popularidad dentro de esta muestra. Nuevamente, estos resultados deben interpretarse con cautela, ya que no representan un ranking oficial de popularidad general del género.
+  
+- **Popularidad por subgénero:**  
+ Aunque el Argentine Rock concentra la mayor producción, géneros como Anime Rap y Groove Metal muestran alta popularidad relativa, reflejando una escena diversa que cruza lo local con lo global.
+
+#### 📌 Consideraciones metodológicas
+
+- **Contexto local:**  
+  El análisis se enfoca en artistas y géneros con impacto en la escena argentina, incluyendo tanto exponentes nacionales como internacionales con presencia relevante en el país.
+
+- **Clasificación automatizada de géneros:**  
+  Los géneros fueron extraídos de Spotify y asignados automáticamente. Esto puede generar inconsistencias, como la inclusión de géneros que no corresponden directamente al metal (*anime rap*, *boom bap*, etc.). Estas etiquetas fueron respetadas como parte del enfoque exploratorio de los datos disponibles.
+
 ### 🎻 Hoja de análisis: Clásico
 ![Dashboard Clásico](./Visualizaciones/Visualizacion_Clasico.png)
+
+### 🎻 Análisis de artistas y subgéneros clásicos en Argentina *(Dashboard Clásico - Power BI)*
+
+Este tablero analiza la música **clásica** en el contexto argentino, explorando los subgéneros predominantes, los artistas con mayor volumen de producción, y las piezas más populares entre los oyentes locales.
+
+#### 🎯 Objetivo
+
+Observar cómo se distribuyen los subgéneros de la música clásica, qué artistas aparecen con mayor frecuencia y qué niveles de popularidad se registran.
+Los artistas fueron seleccionados de manera aleatoria, por lo que no se trata necesariamente de los compositores más importantes, ni de los intérpretes más conocidos en la historia de la música clásica.
+
+#### 🧩 Datos clave
+
+- **Total de artistas analizados:** 769  
+- **Subgéneros más representados:**  
+  Classical, Classical Piano, Opera, Orchestra, Neoclassical, Chamber Music, Requiem, Choral.
+
+#### 🔍 Insights destacados
+
+- **Dominancia del subgénero "Classical" como etiqueta general:**  
+  La categoría *Classical* agrupa la mayor cantidad de álbumes. Esto refleja tanto la diversidad interna del género como la forma en que Spotify clasifica obras históricas bajo etiquetas amplias.
+
+- **Alta concentración de álbumes en pocos artistas:**  
+  Instituciones como *Academy of St. Martin in the Fields* o directores como *Alexander Gibson* se destacan por su enorme volumen de producción. Esta tendencia responde, en parte, a la reutilización de grabaciones históricas en múltiples lanzamientos.
+
+- **Pistas más populares:**  
+  Obras como *21 Hungarian Dances*, *Orchestral Suite No. 3*, *Requiem in D Minor* y *Piano Sonata No. 14 (Moonlight)* se encuentran entre las más escuchadas. Su popularidad puede explicarse por su presencia en playlists educativas, cinematográficas o de relajación.
+
+- **Popularidad acumulada por género:**  
+  Los subgéneros *Classical*, *Opera*, *Orchestra* y *Classical Piano* concentran la mayor parte de la popularidad, evidenciando una audiencia interesada tanto en obras sinfónicas como en piezas para instrumentos solistas.
+
+#### 📌 Consideraciones metodológicas
+
+- **Volumen de datos significativamente mayor:**  
+  A diferencia del Pop o el Metal, el género Clásico aportó el mayor número de registros en la extracción, lo que impacta directamente en las métricas de popularidad. A mayor cantidad de artistas y álbumes, mayor volumen acumulado. Esta desproporción debe tenerse en cuenta al comparar con otros géneros.
+
+- **Clasificación automática de subgéneros:**  
+  Como en los demás dashboards, los géneros provienen de la API de Spotify y fueron asignados automáticamente. Esto puede generar etiquetas redundantes o poco precisas (*classical*, *neoclassical*, *minimalism*, etc.) que no siempre responden a una curaduría musicológica rigurosa.
+
 
 ### 🎤 Hoja de análisis: Pop
 ![Dashboard Pop](./Visualizaciones/Visualizacion_pop.png)
 
+## 🎤 Análisis de artistas y subgéneros musicales en Argentina  
+*(Dashboard Pop - Power BI)*
+
+Este dashboard presenta una exploración de artistas vinculados al **Pop**, en el contexto argentino, como parte del análisis comparativo con los géneros **Clásico** y **Metal**.
+
+### 🎯 Objetivo
+
+Examinar las tendencias dentro del pop argentino, identificando los subgéneros más frecuentes y los artistas con mayor presencia en la muestra. Como en los otros géneros, los artistas fueron seleccionados de forma **aleatoria**, por lo tanto **no representan necesariamente a los más famosos, históricos o difundidos del género**.
+
+### 🧩 Datos clave
+
+- **Total de artistas analizados:** 545 
+- **Subgéneros destacados (según cantidad de álbumes):**  
+  Pop argentino, Electropop, Dance Pop, Indie Pop, Latin Pop. También aparecen géneros como Cumbia, RKT y Cuarteto.
+
+### 🔍 Insights destacados
+
+- **Presencia de géneros populares en la cultura local:**  
+  Además de subgéneros típicamente vinculados al pop, como *Electropop* o *Latin Pop*, aparecen estilos como *Cumbia*, *RKT* y *Cuarteto*, muy difundidos en Argentina. Aunque no son estrictamente subgéneros del pop, fueron etiquetados como tal por Spotify, probablemente por su alto grado de masividad.
+
+- **Artistas de alta popularidad en la escena nacional, pero muestra aleatoria:**  
+  Algunos artistas incluidos presentan altos niveles de popularidad, pero esto se debe a la aleatoriedad de la muestra. No fue una selección curada por fama o éxito comercial.
+
+- **Popularidad general más alta en promedio que metal y clásico:**  
+  A pesar de no haber seleccionado los artistas más top intencionalmente, el género pop presenta valores de popularidad más elevados en promedio. Esto puede vincularse con el carácter masivo del género y con la familiaridad del público argentino con muchos de sus subgéneros.
+
+### 📌 Consideraciones metodológicas
+
+- **Selección aleatoria de artistas:**  
+  Al igual que con los otros géneros, los artistas y subgéneros fueron tomados de manera aleatoria desde Spotify. Esto significa que la muestra incluye tanto artistas reconocidos como otros de menor difusión, sin priorización intencionada.
+
+- **Clasificación automatizada de géneros:**  
+  Spotify asigna etiquetas de género de forma automática. Esto puede haber generado la inclusión de géneros como *Cumbia* o *RKT* dentro del pop, reflejando una clasificación basada más en popularidad que en una estructura musical académica.
+
+
+
 ### ⚖️ Comparativa entre géneros
 ![Dashboard Comparativo](./Visualizaciones/Visualizacion_comparativa.png)
 
+### 📌 Conclusión general del análisis
+
+Este estudio exploró la popularidad relativa de tres géneros musicales —metal, clásico y pop— utilizando un conjunto de datos diseñado intencionalmente para evitar sesgos hacia artistas ampliamente reconocidos. En lugar de ello, se seleccionaron artistas de forma aleatoria, lo que permite observar patrones de consumo musical más amplios y menos condicionados por la lógica del mainstream.
+
+#### 🔍 Principales hallazgos:
+
+- **Metal** presenta una popularidad distribuida de forma pareja, con pocos picos, lo que sugiere que en este muestreo sus artistas tienen una presencia consistente pero limitada.
+
+- **Clásico** reúne la mayor cantidad de artistas, pero también es el género con menor visibilidad general. Esto se debe en parte a la inclusión de numerosos artistas que no pertenecen estrictamente al ámbito clásico, convirtiéndolo en el género más "contaminado" del análisis.
+
+- **Pop**, si bien no domina en términos absolutos, muestra una ligera ventaja en popularidad relativa. Varios artistas alcanzan los valores máximos dentro del conjunto, lo que indica que incluso en un muestreo aleatorio, el pop logra filtrar propuestas con mayor alcance comercial.
+
+#### 🧠 Reflexión final:
+
+En un contexto de muestreo sin sesgo hacia lo más escuchado, el **pop** mantiene cierta capacidad de inserción mediática, mientras que el **metal** y el **clásico** —especialmente este último por su alta heterogeneidad— sostienen un perfil más bajo y disperso. Esto refuerza la idea de que la popularidad no solo depende del género, sino también del grado de cohesión interna y su representación algorítmica en plataformas como Spotify.
+
+---
+
+### 📊 Comparación metodológica entre dashboards
+
+| Criterio                          | Pop                              | Metal                            | Clásico                          |
+|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| Inclusión de otros géneros       | Sí, pero en menor medida         | Presente pero moderada           | Muy alta (más dispersión)        |
+| Homogeneidad de artistas         | Media                            | Alta                             | Baja                             |
+| Dominancia de subgéneros claros | Media (latin pop fuerte)         | Alta (subgéneros metal claros)   | Baja                             |
+| Popularidad concentrada          | Baja                             | Media                            | Baja                             |
+
+
+
+---
+
+📇 **Autor:** [Agostina Marengo](https://www.linkedin.com/in/agostina-marengo/)
+
+_Proyecto desarrollado en el marco de mi formación en visualización de datos y análisis exploratorio. Gracias por visitar mi portfolio._
